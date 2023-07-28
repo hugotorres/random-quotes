@@ -1,6 +1,6 @@
 {
-    "name": "random-quotes",
-    "version": "1.0.0",
+    "name": "hugo-random-quotes",
+    "version": "1.0.1",
     "description": "A simple npm package to get random quotes. by hugo torres",
     "main": "index.js",
     "license": "MIT",
